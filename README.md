@@ -86,7 +86,8 @@ This lightweight architecture effectively captures temporal patterns in sensor d
 
 ## 📐 CNN Architecture Diagram
 
-[CNN Architecture](cnn_architecture.png)
+![Model Architecture](./images/model_arch.png)
+
 
 ---
 
